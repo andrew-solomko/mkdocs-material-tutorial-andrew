@@ -1,19 +1,23 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Introduction
 
-## Commands
+Figma is a collaborative online tool for designing and prototyping user interfaces. In this guide you will learn to format shapes and text in FigJam, create your first flowchart, format elements in Figma Design, and create your first wireframe.
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+## Is this guide for you?
 
-## Project layout
+This guide is intended for term 1 CST or related field students that are new to Figma using Windows. But anyone who wants to learn the basics of Figma can use it as well.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Before you start
 
-I like to drink :beers: after I played :soccer:
+Ensure you have a Figma account, you can select a free version when making your account. If you don't have Figma yet, click this link: https://www.figma.com/
+
+## Typographical conventions
+
+Bolded text -> Commands: Click, open, drag
+
+## Admonitions
+
+Success
+Warning
+Note
