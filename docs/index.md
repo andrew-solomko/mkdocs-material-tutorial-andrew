@@ -1,4 +1,4 @@
-<!-- 
+<!--
 - the real homepage -
 
 should contain:
@@ -12,13 +12,11 @@ should contain:
     - links to the tasks and other pages
  -->
 
-
-
 # Home
 
 ## Introduction
 
-Figma is a collaborative online tool for designing and prototyping user interfaces. In this guide you will learn to format shapes and text in FigJam, create your first flowchart, format elements in Figma Design, and create your first wireframe.
+Figma is a collaborative online tool for designing and prototyping user interfaces. In this guide you will learn to use two sections of Figma; FigJam and Figma Design. FigJam is a whiteboard for drawing and designing static elements. Figma Design is intended for creating wesite wireframes. By the end of this guide, you will have learned how to format shapes and text in FigJam, create your first flowchart, format elements in Figma Design, and create your first wireframe.
 
 ## Is this guide for you?
 
