@@ -37,10 +37,10 @@ Bolded text -> Commands: Click, open, drag
 ## Admonitions
 
 !!! note
-A note admonition will notify you of any additional information that could be helpful
+    A note admonition will notify you of any additional information that could be helpful
 
 !!! success
-A success admonition will explain what success after each step looks like
+    A success admonition will explain what success after each step looks like
 
 !!! warning
-A warning admonition will warn you about a dangerous something
+    A warning admonition will warn you about a dangerous something
