@@ -13,16 +13,16 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
-      accent: deep purple
+      primary: indigo
+      accent: purple
 
     # Light Mode
-    - scheme: default
+    - scheme: slate
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
-      accent: deep orange
+      primary: indigo
+      accent: purple
 
 markdown_extensions:
   - attr_list
