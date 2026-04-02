@@ -28,6 +28,10 @@ Ensure you have a Figma account, you can select a free version when making your 
 
 ## Typographical conventions
 
+| Convention      | Meaning   | Example                               |
+| --------------- | --------- | ------------------------------------- |
+| **Bolded Text** | A command | Click, drag, mouse-over, return, find |
+
 Bolded text -> Commands: Click, open, drag
 
 ## Admonitions
