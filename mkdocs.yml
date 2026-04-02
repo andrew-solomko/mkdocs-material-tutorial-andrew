@@ -27,10 +27,10 @@ theme:
 nav:
   - Home: index.md
   - Tasks:
-      - Set up Figma and create your first file: tasks/figma-setup.md
+      - Learn the basics of formatting shapes in FigJam: tasks/basic-formatting-figjam.md
       - Create your first flowchart in FigJam: tasks/first-flowchart-figjam.md
+      - Learn the basics of formatting elements in Figma Design: tasks/basic-formatting-figma-design.md
       - Create your first wireframe in Figma Design: tasks/first-wireframe-figma-design.md
-      - Share your file and collaborate with teammates: tasks/collaborate-with-teammates.md
   - Glossary: glossary.md
   - Troubleshooting: troubleshooting.md
 
