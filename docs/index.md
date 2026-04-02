@@ -1,3 +1,19 @@
+<!-- 
+- the real homepage -
+
+should contain:
+    - what Figma is
+    - difference between FigJam and Figma Design
+    - who the guide is for
+    - what the user will complete
+    - "before you start"
+    - conventions
+    - examples
+    - links to the tasks and other pages
+ -->
+
+
+
 # Home
 
 ## Introduction
