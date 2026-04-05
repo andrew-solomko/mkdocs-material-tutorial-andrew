@@ -6,90 +6,102 @@ This task will teach how to perform basic actions in Figma Design, that you will
 
 ## Procedure
 
-Step 1: Click on "Design" near the top right. (ensure you're in the file tab on the left dropdown)
+Step 1: Click on "Design" near the top right.
 
 ![Image 1](../assets/Task3/Img1.png)
 
-This will create a new Figma Design file for you to work with
+This will create a new Figma Design file for you to work with.
+
+!!! success
+    You should see an empty middle area, two thick sidebars and a small bottom row.
 
 !!! note
-    If you see a pop up on the left side of the screen, close it using the x in the top right corner before proceeding
+    If you see a pop up on the left side of the screen, close it using the x in the top right corner of the popup before proceeding.
 
-Step 2: Click the square in the bottom row (do not click the dropdown arrow beside it)
+Step 2: Click the square in the bottom row (do not click the dropdown arrow beside it).
 
-Img 2
+![Image 2](../assets/Task3/Img2.png)
 
 This will select the rectangle tool, that will allow you to draw basic rectangles.
 
-Step 3: Hold down left click, while hovering over the grey background (not the bottom bar or side panels) and drag your mouse down and right until the numbers underneath the rectangle read approx. 1200 x 600 (exact values aren't important), then let go of left click.
+!!! success
+    The square you clicked should have a blue background, signifying that it's selected.
 
-Img 3
+Step 3: Hold down left click, while hovering over the grey background and drag your mouse down and right until the numbers underneath the rectangle read approx. 300 x 150, then let go of left click.
 
-You've created your first shape, now let's try modifying it.
+!!! note
+    The exact dimensions don't matter in this case.
+
+![Image 3](../assets/Task3/Img3.png)
+
+You've created your first shape, a rectangle.
+
+!!! success
+    You should see a grey rectangle on your screen.
 
 Step 4: (While you have the rectangle selected (surrounded in blue)) Click the grey square below "Fill" on the right side panel.
 
-Img 4
+![Image 4](../assets/Task3/Img4.png)
 
-You'll see a color selection menu pop up
+This will bring up the color selection menu.
 
-Step 5: Move your mouse cursor near the middle of the left side of the multi-color square and left click (make sure to click within the color square and not outside it)
+Step 5: Move your mouse cursor near the middle of the left side of the multi-color square and left click (make sure to click within the color square and not outside it), then close the menu.
 
-Img 5
+![Image 5](../assets/Task3/Img5.png)
 
 This will change the color of your currently selected shape, for now just to make it easier to see.
 
-Step 6: Select the rectangle and hover over it. Go to one of the corner circles, click and drag inward until you see "Radius 50"
+Step 6: Select the rectangle and hover over it. Go to one of the corner circles, click and drag inward until you see "Radius 40".
 
-Img 6
+![Image 6](../assets/Task3/Img6.png)
 
 This makes your rectangle rounded, which will help create shapes that look like buttons instead of basic rectangles.
 
 Step 7: (While selected) Click on the number right of "W" under dimensions on the right panel and type in 200, press enter.
 
-Img 7
+![Image 7](../assets/Task3/Img7.png)
 
-This will set the width of your rectangle to 200
+This will set the width of your rectangle to 200.
 
 Step 8: (While selected) Click on the number right of "H" under dimensions on the right panel and type in 100, press enter.
 
-Img 8
+![Image 8](../assets/Task3/Img8.png)
 
-This will set the height of your rectangle to 100
+This will set the height of your rectangle to 100.
 
-Step 9: Click on the text icon in the bottom row
+Step 9: Click on the text icon in the bottom row.
 
-Img 9
+![Image 9](../assets/Task3/Img9.png)
 
-This will allow you to create text boxes
+This will allow you to create text boxes.
 
-Step 10: Click and hold inside your shape near the top left corner and drag towards the bottom right corner until the numbers below read approx. 120 x 50, then let go
+Step 10: Click and hold inside your rectangle near the top left corner and drag towards the bottom right corner until the numbers below read approx. 150 x 50, then let go.
 
-Img 10
+![Image 10](../assets/Task3/Img10.png)
 
 This will create a text box on top of your shape, allowing you to add and modify text inside of it.
 
-Step 11: Click on the number 12 in typography section of the right sidebar, type in 30, press enter.
+Step 11: Click on the number 12 in the typography section of the right sidebar, type in 30, press enter.
 
-Img 11
+![Image 11](../assets/Task3/Img11.png)
 
-This will change the font of any text you add to 30
+This will change the font of any text you add to 30.
 
-Step 12: Type in the word "Settings".
+Step 12: Type in the word "Settings" and click off the text box.
 
-Img 12
+![Image 12](../assets/Task3/Img12.png)
 
-This will effectively give the shape a name, allowing for easier reference
+This will effectively give the shape a name, allowing for easier reference.
 
-Step 13: Click outside of the shape and drag the mouse across it and let go.
+Step 13: Click and hold outside of the shape, then drag the mouse across the shape and text box and let go.
 
-Img 13
+![Image 13](../assets/Task3/Img13.png)
 
-This selects both the shape itself, and text you added
+This selects both the shape itself, and text you added.
 
 Step 14: Right click on the selected objects and click on "Group selection".
 
-Img 14
+![Image 14](../assets/Task3/Img14.png)
 
 Now you've combined the shape and text into a single object.
 
