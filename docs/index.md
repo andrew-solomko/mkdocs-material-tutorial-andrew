@@ -28,9 +28,10 @@ Ensure you have a Figma account, you can select a free version when making your 
 
 ## Typographical conventions
 
-| Convention      | Meaning   | Example                               |
-| --------------- | --------- | ------------------------------------- |
-| **Bolded Text** | A command | Click, drag, mouse-over, return, find |
+| Convention              | Meaning          | Example                               |
+| ----------------------- | ---------------- | ------------------------------------- |
+| **Bolded Text**         | A command        | Click, drag, mouse-over, return, find |
+| "Text in double quotes" | Text you can see | **Click** "Edit"                      |
 
 Bolded text -> Commands: Click, open, drag
 
