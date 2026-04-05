@@ -2,39 +2,182 @@
 
 ## Introduction
 
-Insert task intro
+This task will show you how to create a basic wireframe in Figma Design. Once you know how to make a small wireframe, you can make any wireframe with the same tools.
 
 ## Procedure
 
-Step 1:
+Step 1: Click "File" near the top of the left sidebar.
 
 Img 1
 
 Explanation of step
+This ensures you can see all the layers in the file, and allows you to select specific shapes.
 
-Step 2:
+!!! success
+    You should be able to see the "Layers" section and within there should be "Group 1", "Settings", and "Rectangle 1".
+
+Step 2: Click on your grouped shape and press Ctrl+C, then Ctrl+V.
 
 Img 2
 
 Explanation of step
+This will copy your object and paste an identical version into your file.
 
-Step 3:
+!!! success
+    You should now see a "Group 2" in layers, the contains the same elements as "Group 1".
+
+Step 3: Click and hold on your object, then drag it just left of the original object.
 
 Img 3
 
 Explanation of step
+This will separate the two objects and ensure you can easily interact with either of them.
 
-Step 4:
+!!! success
+    You should see two identical "Settings" rounded rectangles side by side.
+
+Step 4: Click on "Settings" in "Layers" under "Group 2".
 
 Img 4
 
 Explanation of step
+This will select the text box inside its group, and allow you to modify it.
 
-Step 5:
+!!! success
+    The text box in the left object should have a blue outline, and the text should be underlined.
+
+Step 5: Double-click the underlined text, type in "Back", and click off.
 
 Img 5
 
 Explanation of step
+This changes the text of the second object, giving them distinct names.
+
+!!! success
+    You should now have a "Settings" shape, and a "Back" shape.
+
+Step 6: Select the frame tool in the bottom row.
+
+Img 6
+
+Explanation of step
+This tool will allow use to create frames. That will represent a UI, like a phone or computer screen.
+
+!!! success
+    The square you clicked should now have a blue background, signifying that it's selected.
+
+Step 7: Scroll down until your two objects are near the top of the screen.
+
+Img 7
+
+Explanation of step
+This gives us some space to create the frames.
+
+!!! success
+    Your "Settings" and "Back" shapes should be near the top of the screen.
+
+Step 8: Draw a frame underneath the "Back" shape with dimensions approx. 300 x 500 just as you drew the rectangle in task 3.
+
+Img 8
+
+Explanation of step
+This frame is a crucial part of creating a clickable wireframe in Figma Design.
+
+!!! success
+    You should see a large, white vertical rectangle below your "Back" shape and a "Frame 1" layer in "Layers".
+
+Step 9: Copy and paste the frame like you did with the "Settings" shape in Step 2.
+
+Img 9
+
+Explanation of step
+This will create a second frame, which we can later link together.
+
+!!! success
+    You should see two identical large, white rectangles.
+
+Step 10: Drag your "Back" shape onto Frame 1.
+
+Img 10
+
+Explanation of step
+This will add the "Back" shape to the static view of the first frame.
+
+!!! success
+    The "Back" shape should be visibly in front of "Frame 1".
+
+Step 11: Drag your "Settings" shape onto Frame 2
+
+Img 11
+
+Explanation of step
+This will add the "Settings" shape to the static view of the second frame.
+
+!!! success
+    The "Settings" shape should be visibly in front of "Frame 2".
+
+Step 12: Click on "Prototype" in the top of the right sidebar.
+
+Img 12
+
+Explanation of step
+This is what will allow you to link the frames together.
+
+!!! success
+    You should see "Creating a connection" and "Running your prototype" on the right sidebar
+
+Step 13: Hover over the "Settings" shape and move your mouse to the middle of the left side of the blue outline of the shape.
+
+Img 13
+
+Explanation of step
+This will give you the ability to link the shapes together by dragging a line to another frame.
+
+!! success
+    Under your mouse cursor, you should see a small blue cross in a blue circle.
+
+Step 14: Click on the cross, hold and drag the mouse to "Frame 1", let go when "Frame 1" has a blue outline and close the pop-up.
+
+Img 14
+
+Explanation of step
+This will link the "Settings" shape to "Frame 1".
+
+!!! success
+    There should now be a light blue line from "Settings" to "Frame 1".
+
+!!! note
+    The pop-up that appeared can be used to customize the details of the interaction.
+
+Step 15: Link "Back" to "Frame 2" in the same way as you did in Steps 13-14.
+
+Img 15
+
+Explanation of step
+This links "Back" to "Frame 1" creating a loop.
+
+!!! success
+    There should now be a light blue line from "Back" to "Frame 2".
+
+Step 16: Click on the Play Icon on the top of the right sidebar.
+
+Img 16
+
+Explanation of step
+This will open a dynamic interaction prototype of your wireframe.
+
+!!! success
+    You should be redirected to another tab in your browser and see one of your frames.
+
+Step 17: Click the button in the frame to switch to the next frame, and click again to return to the first frame.
+
+Img 17
+
+Explanation of step
+This demonstrates a basic wireframe with buttons to switch screens or tabs.
+
+!!! success
+    Clicking on the buttons should switch your view to the other frame, in a loop.
 
 ## Conclusion
 
