@@ -27,7 +27,7 @@ theme:
 nav:
   - Home: index.md
   - Tasks:
-      - Learn the basics of formatting shapes in FigJam: tasks/basic-formatting-figjam.md
+      - Learn the basics of formatting shapes in FigJam: tasks/basic-formatting-figJam.md
       - Create your first flowchart in FigJam: tasks/first-flowchart-figjam.md
       - Learn the basics of formatting elements in Figma Design: tasks/basic-formatting-figma-design.md
       - Create your first wireframe in Figma Design: tasks/first-wireframe-figma-design.md
