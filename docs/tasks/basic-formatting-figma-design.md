@@ -8,9 +8,12 @@ This task will teach how to perform basic actions in Figma Design, that you will
 
 Step 1: Click on "Design" near the top right. (ensure you're in the file tab on the left dropdown)
 
-Img 1
+![Image 1](../assets/Task3/Img1.png)
 
 This will create a new Figma Design file for you to work with
+
+!!! note
+    If you see a pop up on the left side of the screen, close it using the x in the top right corner before proceeding
 
 Step 2: Click the square in the bottom row (do not click the dropdown arrow beside it)
 
