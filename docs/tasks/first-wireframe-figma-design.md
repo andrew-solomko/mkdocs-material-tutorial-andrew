@@ -8,7 +8,7 @@ This task will show you how to create a basic wireframe in Figma Design. Once yo
 
 Step 1: Click "File" near the top of the left sidebar.
 
-Img 1
+![Image 1](../assets/Task4/Img1.png)
 
 Explanation of step
 This ensures you can see all the layers in the file, and allows you to select specific shapes.
@@ -18,7 +18,7 @@ This ensures you can see all the layers in the file, and allows you to select sp
 
 Step 2: Click on your grouped shape and press Ctrl+C, then Ctrl+V.
 
-Img 2
+![Image 2](../assets/Task4/Img2.png)
 
 Explanation of step
 This will copy your object and paste an identical version into your file.
@@ -28,7 +28,7 @@ This will copy your object and paste an identical version into your file.
 
 Step 3: Click and hold on your object, then drag it just left of the original object.
 
-Img 3
+![Image 3](../assets/Task4/Img3.png)
 
 Explanation of step
 This will separate the two objects and ensure you can easily interact with either of them.
@@ -38,7 +38,7 @@ This will separate the two objects and ensure you can easily interact with eithe
 
 Step 4: Click on "Settings" in "Layers" under "Group 2".
 
-Img 4
+![Image 4](../assets/Task4/Img4.png)
 
 Explanation of step
 This will select the text box inside its group, and allow you to modify it.
@@ -48,7 +48,7 @@ This will select the text box inside its group, and allow you to modify it.
 
 Step 5: Double-click the underlined text, type in "Back", and click off.
 
-Img 5
+![Image 5](../assets/Task4/Img5.png)
 
 Explanation of step
 This changes the text of the second object, giving them distinct names.
@@ -58,7 +58,7 @@ This changes the text of the second object, giving them distinct names.
 
 Step 6: Select the frame tool in the bottom row.
 
-Img 6
+![Image 6](../assets/Task4/Img6.png)
 
 Explanation of step
 This tool will allow use to create frames. That will represent a UI, like a phone or computer screen.
@@ -68,7 +68,7 @@ This tool will allow use to create frames. That will represent a UI, like a phon
 
 Step 7: Scroll down until your two objects are near the top of the screen.
 
-Img 7
+![Image 7](../assets/Task4/Img7.png)
 
 Explanation of step
 This gives us some space to create the frames.
@@ -78,7 +78,7 @@ This gives us some space to create the frames.
 
 Step 8: Draw a frame underneath the "Back" shape with dimensions approx. 300 x 500 just as you drew the rectangle in task 3.
 
-Img 8
+![Image 8](../assets/Task4/Img8.png)
 
 Explanation of step
 This frame is a crucial part of creating a clickable wireframe in Figma Design.
@@ -88,7 +88,7 @@ This frame is a crucial part of creating a clickable wireframe in Figma Design.
 
 Step 9: Copy and paste the frame like you did with the "Settings" shape in Step 2.
 
-Img 9
+![Image 9](../assets/Task4/Img9.png)
 
 Explanation of step
 This will create a second frame, which we can later link together.
@@ -96,9 +96,9 @@ This will create a second frame, which we can later link together.
 !!! success
     You should see two identical large, white rectangles.
 
-Step 10: Drag your "Back" shape onto Frame 1.
+Step 10: Drag your "Back" shape onto the middle of Frame 1.
 
-Img 10
+![Image 10](../assets/Task4/Img10.png)
 
 Explanation of step
 This will add the "Back" shape to the static view of the first frame.
@@ -106,9 +106,9 @@ This will add the "Back" shape to the static view of the first frame.
 !!! success
     The "Back" shape should be visibly in front of "Frame 1".
 
-Step 11: Drag your "Settings" shape onto Frame 2
+Step 11: Drag your "Settings" shape onto Frame 2.
 
-Img 11
+![Image 11](../assets/Task4/Img11.png)
 
 Explanation of step
 This will add the "Settings" shape to the static view of the second frame.
@@ -118,7 +118,7 @@ This will add the "Settings" shape to the static view of the second frame.
 
 Step 12: Click on "Prototype" in the top of the right sidebar.
 
-Img 12
+![Image 12](../assets/Task4/Img12.png)
 
 Explanation of step
 This is what will allow you to link the frames together.
@@ -128,7 +128,7 @@ This is what will allow you to link the frames together.
 
 Step 13: Hover over the "Settings" shape and move your mouse to the middle of the left side of the blue outline of the shape.
 
-Img 13
+![Image 13](../assets/Task4/Img13.png)
 
 Explanation of step
 This will give you the ability to link the shapes together by dragging a line to another frame.
@@ -138,7 +138,7 @@ This will give you the ability to link the shapes together by dragging a line to
 
 Step 14: Click on the cross, hold and drag the mouse to "Frame 1", let go when "Frame 1" has a blue outline and close the pop-up.
 
-Img 14
+![Image 14](../assets/Task4/Img14.png)
 
 Explanation of step
 This will link the "Settings" shape to "Frame 1".
@@ -151,7 +151,7 @@ This will link the "Settings" shape to "Frame 1".
 
 Step 15: Link "Back" to "Frame 2" in the same way as you did in Steps 13-14.
 
-Img 15
+![Image 15](../assets/Task4/Img15.png)
 
 Explanation of step
 This links "Back" to "Frame 1" creating a loop.
@@ -161,7 +161,7 @@ This links "Back" to "Frame 1" creating a loop.
 
 Step 16: Click on the Play Icon on the top of the right sidebar.
 
-Img 16
+![Image 16](../assets/Task4/Img16.png)
 
 Explanation of step
 This will open a dynamic interaction prototype of your wireframe.
@@ -171,7 +171,7 @@ This will open a dynamic interaction prototype of your wireframe.
 
 Step 17: Click the button in the frame to switch to the next frame, and click again to return to the first frame.
 
-Img 17
+![Image 17](../assets/Task4/Img17.png)
 
 Explanation of step
 This demonstrates a basic wireframe with buttons to switch screens or tabs.
@@ -181,4 +181,4 @@ This demonstrates a basic wireframe with buttons to switch screens or tabs.
 
 ## Conclusion
 
-Insert task conclusion
+You now know how to use shapes, frames, and links to create a fully functional wireframe. The one you just made is very simple, but it can serve as a starting point for a wireframe of any size.
