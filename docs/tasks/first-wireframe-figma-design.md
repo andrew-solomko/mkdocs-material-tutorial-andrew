@@ -3,6 +3,7 @@
 ## Introduction
 
 This task will show you how to create a basic wireframe in Figma Design, building on what you created in Task 3. Once you know how to make a small wireframe, you can make any wireframe with the same tools.
+
 !!! warning
     Before beggining this task, ensure you are in the file that contains your work from Task 3.
 
@@ -21,10 +22,10 @@ Step 2: **Click** on your grouped shape and **press** Ctrl+C, then **press** Ctr
 
 ![Image 2](../assets/Task4/Img2.png)
 
-This will copy your object and paste an identical version on top of it.
+This will copy your labeled rectangle and paste an identical version on top of it.
 
 !!! success
-    You should now see a "Group 2" in layers, the contains the same elements as "Group 1".
+    You should now see a "Group 2" in "Layers", the contains the same elements as "Group 1".
 
 Step 3: **Click and hold** on your object, then **drag** it just left of the original object.
 
@@ -53,14 +54,14 @@ This changes the text of the second object, giving them distinct names.
 !!! success
     You should now have a "Settings" shape, and a "Back" shape.
 
-Step 6: **Select** the frame tool in the bottom row.
+Step 6: **Select** the frame tool in the bottom row by **clicking** on it.
 
 ![Image 6](../assets/Task4/Img6.png)
 
 This tool will allow you to create frames. These will represent the base of a UI, like a phone or computer screen.
 
 !!! success
-    The square you clicked should now have a blue background, signifying that it's selected.
+    The frame tool you clicked should now have a blue background, signifying that it's selected.
 
 Step 7: **Move** your rectangles upward by **scrolling down** until they are near the top of the screen.
 
@@ -71,7 +72,7 @@ This gives us some space to create the frames.
 !!! success
     Your "Settings" and "Back" rectangles should be near the top of the screen.
 
-Step 8: **Draw** a frame underneath the "Back" rectangle with dimensions approx. 300 x 500 just as you drew the rectangle in task 3.
+Step 8: **Draw** a frame underneath the "Back" rectangle with dimensions approx. 300 x 500 just as you drew the rectangle in Step 3 of Task 3.
 
 ![Image 8](../assets/Task4/Img8.png)
 
@@ -98,7 +99,7 @@ This will add the "Back" shape to the static view of the first frame.
 !!! success
     The "Back" shape should be visibly in front of "Frame 1".
 
-Step 11: **Drag** your "Settings" shape into "Frame 2".
+Step 11: **Drag** your "Settings" shape into the middle of "Frame 2".
 
 ![Image 11](../assets/Task4/Img11.png)
 
@@ -116,7 +117,7 @@ This is what will allow you to link the frames together.
 !!! success
     You should see "Creating a connection" and "Running your prototype" on the right sidebar
 
-Step 13: **Hover over** the "Settings" shape and move your mouse to the middle of the left side of the blue outline of the shape.
+Step 13: **Hover over** the "Settings" shape and **move** your mouse to the middle of the left side of the blue outline of the shape.
 
 ![Image 13](../assets/Task4/Img13.png)
 
@@ -162,7 +163,6 @@ Step 17: **Click** the labeled button in the frame to switch to the next frame, 
 
 ![Image 17](../assets/Task4/Img17.png)
 
-Explanation of step
 This demonstrates a basic wireframe with buttons to switch screens or tabs.
 
 !!! success
