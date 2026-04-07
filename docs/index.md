@@ -34,7 +34,7 @@ If you do not have an account yet, [create a free Figma account](https://www.fig
 
 | Convention | Meaning | Example |
 |------------|---------|---------|
-| **Bold text** | An action you must perform | **Click** **New FigJam board** |
+| **Bold text** | An action you must perform | **Click** New FigJam board |
 | `Code text` | Text you must type exactly as shown | Type `Start` |
 | "Quoted text" | Text that appears in the interface | **Click** "Prototype" |
 
