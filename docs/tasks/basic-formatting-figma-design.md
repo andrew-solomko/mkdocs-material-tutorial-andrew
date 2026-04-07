@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This task will teach how to perform basic actions in Figma Design, that you will need to later build your first wireframe. Before beggining this task, ensure you are on the main page of Figma just after signing up or signing in.
+This task will teach how to perform basic actions in Figma Design, that you will need to later build your first wireframe.
+!!! warning
+    Before beggining this task, ensure you are on the main page of Figma just after signing up or signing in.
 
 ## Procedure
 
