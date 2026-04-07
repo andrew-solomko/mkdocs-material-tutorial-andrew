@@ -3,6 +3,7 @@
 ## Introduction
 
 This task will teach how to perform basic actions in Figma Design, that you will need to later build your first wireframe.
+
 !!! warning
     Before beggining this task, ensure you are on the main page of Figma just after signing up or signing in.
 
@@ -68,7 +69,7 @@ This makes your rectangle rounded, which will help create shapes that look like 
 !!! success
     Your rectangle should now have round edges instead of regular sharp edges.
 
-Step 7: **Click** on the number right of "W" under dimensions on the right panel and type in 200, press enter.
+Step 7: **Click** on the number right of "W" under dimensions on the right panel and type in 200, **press** enter.
 
 ![Image 7](../assets/Task3/Img7.png)
 
@@ -77,7 +78,7 @@ This will set the width of your rectangle to 200.
 !!! success
     Your rectangle's width should shrink after you entered the value.
 
-Step 8: **Click** on the number right of "H" under dimensions on the right panel and type in 100, press enter.
+Step 8: **Click** on the number right of "H" under dimensions on the right panel and type in 100, **press** enter.
 
 ![Image 8](../assets/Task3/Img8.png)
 
@@ -95,7 +96,7 @@ This will allow you to create text boxes.
 !!! success
     The text icon you clicked should now have a blue background, signifying that it's selected.
 
-Step 10: **Click and hold** inside your rectangle near the top left corner and **drag** towards the bottom right corner until the numbers below read approx. 150 x 50, then let go.
+Step 10: **Click and hold** inside your rectangle near the top left corner and **drag** towards the bottom right corner until the numbers below read approx. 150 x 50, then **let go**.
 
 ![Image 10](../assets/Task3/Img10.png)
 
@@ -104,7 +105,7 @@ This will create a text box on top of your shape, allowing you to add and modify
 !!! success
     There should be a blue rectangular outline inside of your rounded rectangle.
 
-Step 11: **Click** on the number 12 in the typography section of the right sidebar, **type in** 30, press enter.
+Step 11: **Click** on the number 12 in the "Typography" section of the right sidebar, **type in** 30, **press** enter.
 
 ![Image 11](../assets/Task3/Img11.png)
 
