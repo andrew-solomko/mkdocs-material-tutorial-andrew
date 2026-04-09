@@ -72,11 +72,11 @@ Creating extra space is useful for organization, and ensuring that things don't 
 !!! success
     Your "Settings" and "Back" rectangles should be near the top of the screen.
 
-Step 8: **Draw** a frame underneath the "Back" rectangle with dimensions approx. 300 x 500 just as you drew the rectangle in Step 3 of Task 3.
+Step 8: **Draw** a frame underneath the "Back" rectangle with dimensions approximately 300 x 500 just as you drew the rectangle in Step 3 of Task 3.
 
 ![Image 8](../assets/Task4/Img8.png)
 
-The frame is a crucial part of creating a clickable wireframe in Figma Design, we can attach clickable text, icons, or buttons to it.
+The frame is a crucial part of creating a clickable wireframe in Figma Design. You can attach clickable text, icons, or buttons to it.
 
 !!! success
     You should see a large, white vertical rectangle below your "Back" shape and a "Frame 1" layer in "Layers".
@@ -123,7 +123,7 @@ Step 13: **Hover over** the "Settings" shape and **move** your mouse to the midd
 
 This will give you the ability to link the shapes together by dragging a link to another frame.
 
-!! success
+!!! success
     Under your mouse cursor, you should see a small blue cross in a blue circle.
 
 Step 14: **Click** on the cross, **hold and drag** the mouse to "Frame 1", **let go** when "Frame 1" has a blue outline and **close** the pop-up.
