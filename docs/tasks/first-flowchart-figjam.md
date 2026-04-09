@@ -75,14 +75,14 @@ Adding a split path at a desicion diamond is the main benefit of a flowchart, al
 
 Step 9: **Double-click** on the connector between "Work complete?" and "Submit assignment" and label it `Yes`, then label the connector between "Work complete?" and "Finish work" `No`.
 
-Labeling connectors at a fork shows what the dicision correlates to which path for the program or procedure to take.
+Labeling connectors at a fork shows what the decision correlates to which path for the program or procedure to take.
 
 !!! success
     The two connectors going out of "Work complete?" should be labeled "Yes" and "No".
 
 Step 10: Align the shapes and connectors both horizontally and vertically, so the shapes follow a typical grid.
 
-Ensuring the chart is alligned makes the it cleaner and more professional.
+Ensuring the chart is alligned makes it cleaner and more professional.
 
 !!! success
     Your finished flowchart should be neat, readable, and fully connected.
@@ -91,4 +91,4 @@ Ensuring the chart is alligned makes the it cleaner and more professional.
 
 You have created your first flowchart in FigJam by placing shapes, adding labels, and connecting each step in order. This type of diagram is useful for showing how a process works and where decisions change the path. You can now use the same method to build more detailed flowcharts for class, planning, or group work.
 
-For help with missing connectors, overlapping shapes, or unreadable labels, see [Troubleshooting](troubleshooting.md).
+For help with missing connectors, overlapping shapes, or unreadable labels, see [Troubleshooting](../troubleshooting.md).

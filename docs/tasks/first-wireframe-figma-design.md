@@ -49,7 +49,7 @@ Step 5: **Double-click** the underlined text in your left rectangle, type in `Ba
 
 ![Image 5](../assets/Task4/Img5.png)
 
-Changing the text of the second object, giving them distinct names.
+Changing the text of the second object gives them distinct names.
 
 !!! success
     You should now have a "Settings" shape, and a "Back" shape.
@@ -67,7 +67,7 @@ Step 7: **Move** your rectangles upward by **scrolling down** until they are nea
 
 ![Image 7](../assets/Task4/Img7.png)
 
-Creating extra space is useful for organization, and ensuring that things don't overlap for no good reason.
+Creating extra space is useful for organization, and ensuring that things don't overlap.
 
 !!! success
     Your "Settings" and "Back" rectangles should be near the top of the screen.
@@ -172,4 +172,4 @@ The prototype allows you to test your design, without having to code the UI, in 
 
 In this task you built on the result of Task 3 to create a working wireframe and learned how to use shapes to create buttons, place them on frames, link them together, and test out your wireframe. Now, that you've got the basics down, using these same tools, you can create much more complex wireframes.
 
-For help with display or formatting issues, see [Troubleshooting](troubleshooting.md).
+For help with display or formatting issues, see [Troubleshooting](../troubleshooting.md).

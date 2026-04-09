@@ -136,7 +136,7 @@ Step 14: **Right click** on the selected objects and **click** on "Group selecti
 
 ![Image 14](../assets/Task3/Img14.png)
 
-Grouping the objects allows you to move them together, this is useful for a makeshift label like you use here.
+Grouping the objects allows you to move them together, this is useful for a makeshift label as seen here.
 
 !!! success
     Now you should be able to drag the shapes around the file, and they will stay together.
@@ -148,4 +148,4 @@ Grouping the objects allows you to move them together, this is useful for a make
 
 From this task you've created a button. You know how to draw a shape, change its color, change its dimensions, and add text. From here you can move on to creating your first clickable wireframe in Task 4.
 
-For help with display or formatting issues, see [Troubleshooting](troubleshooting.md).
+For help with display or formatting issues, see [Troubleshooting](../troubleshooting.md).

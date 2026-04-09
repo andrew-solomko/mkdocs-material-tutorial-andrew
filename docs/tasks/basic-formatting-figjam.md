@@ -23,23 +23,23 @@ This opens a blank FigJam board where you can add shapes, text, and connectors.
 
 Step 2: **Click** the shape tool in the toolbar and **select** the square.
 
-![Select the Shape tool and choose a rectangle](../assets/Task1/Img2.png "Select the Shape tool and choose a rectangle")
+![Select the Shape tool and choose a square](../assets/Task1/Img2.png "Select the Shape tool and choose a square")
 
-The Shape tool lets you place visual objects on the board. A rectangle is a good first shape because it is commonly used for process steps.
+The Shape tool lets you place visual objects on the board. A square is a good first shape because it is commonly used for process steps.
 
 !!! success
-    Your cursor should now be ready to draw a rectangle.
+    Your cursor should now be ready to draw a square.
 
-Step 3: **Click and drag** the rectangle from the bottom bar onto the board and **let go** to place it.
+Step 3: **Click and drag** the square from the bottom bar onto the board and **let go** to place it.
 
-![Draw your first rectangle on the FigJam board](../assets/Task1/Img3.png "Draw your first rectangle on the FigJam board")
+![Draw your first square on the FigJam board](../assets/Task1/Img3.png "Draw your first square on the FigJam board")
 
 Drawing the shape gives you an object that you can format and label. The exact size does not need to match perfectly.
 
 !!! success
-    You should see one rectangle on the board.
+    You should see one square on the board.
 
-Step 4: **Click** the rectangle to select it, then **click** the colored circle in the bar that appears above.
+Step 4: **Click** the square to select it, then **click** the colored circle in the bar that appears above.
 
 Img 4
 
@@ -112,4 +112,4 @@ Renaming duplicated objects helps create distinct, but consistent elements.
 
 You have created and formatted shapes in FigJam by inserting a rectangle, changing its appearance, and adding text. You also duplicated the shape to create a small set of matching objects. In the next task, you will use these same skills to build your first flowchart.
 
-For help with display or formatting issues, see [Troubleshooting](troubleshooting.md).
+For help with display or formatting issues, see [Troubleshooting](../troubleshooting.md).
