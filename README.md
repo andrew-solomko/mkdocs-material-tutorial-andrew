@@ -110,4 +110,5 @@ Users with little to no prior experience in FigJam or Figma Design
 
 ## Authors
 
-Andrew Solomko, David Lukac
+Andrew Solomko
+David Lukac
