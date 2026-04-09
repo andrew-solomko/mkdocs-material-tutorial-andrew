@@ -11,7 +11,7 @@ This task will show you how to create a basic wireframe in Figma Design, buildin
 
 Step 1: **Click** "File" near the top of the left sidebar.
 
-![Image 1](../assets/Task4/Img1.png)
+![Start on your file from task 3](../assets/Task4/Img1.png "Start on your file from task 3")
 
 This ensures you can see all the layers in the file, and allows you to select specific shapes, without clicking them directly.
 
@@ -20,7 +20,7 @@ This ensures you can see all the layers in the file, and allows you to select sp
 
 Step 2: **Click** on your grouped shape and **press** Ctrl+C, then **press** Ctrl+V.
 
-![Image 2](../assets/Task4/Img2.png)
+![Copy and paste your grouped shape](../assets/Task4/Img2.png "Copy and paste your grouped shape")
 
 Copying your premade shape allows you to keep the size and color consistent.
 
@@ -29,7 +29,7 @@ Copying your premade shape allows you to keep the size and color consistent.
 
 Step 3: **Click and hold** on your object, then **drag** it just left of the original object.
 
-![Image 3](../assets/Task4/Img3.png)
+![Separate the two labeled rectangles](../assets/Task4/Img3.png "Separate the two labeled rectangles")
 
 Separating the two objects and ensure you can easily interact with either of them.
 
@@ -38,7 +38,7 @@ Separating the two objects and ensure you can easily interact with either of the
 
 Step 4: **Click** on "Settings" in "Layers" under "Group 2" in the left sidebar.
 
-![Image 4](../assets/Task4/Img4.png)
+![Select the test box in 'Group 2'](../assets/Task4/Img4.png "Select the test box in 'Group 2'")
 
 This will select the text box inside its group, and allow you to modify it.
 
@@ -47,7 +47,7 @@ This will select the text box inside its group, and allow you to modify it.
 
 Step 5: **Double-click** the underlined text in your left rectangle, type in `Back`, and **click off**.
 
-![Image 5](../assets/Task4/Img5.png)
+![Rename the rectangle to 'Back'](../assets/Task4/Img5.png "Rename the rectangle to 'Back'")
 
 Changing the text of the second object gives them distinct names.
 
@@ -56,7 +56,7 @@ Changing the text of the second object gives them distinct names.
 
 Step 6: **Select** the frame tool in the bottom row by **clicking** on it.
 
-![Image 6](../assets/Task4/Img6.png)
+![Select the frame tool](../assets/Task4/Img6.png "Select the frame tool")
 
 This tool will allow you to create frames that represent the base of a UI, like a phone or computer screen.
 
@@ -65,7 +65,7 @@ This tool will allow you to create frames that represent the base of a UI, like 
 
 Step 7: **Move** your rectangles upward by **scrolling down** until they are near the top of the screen.
 
-![Image 7](../assets/Task4/Img7.png)
+![Move the shapes up by scrolling down](../assets/Task4/Img7.png "Move the shapes up by scrolling down")
 
 Creating extra space is useful for organization, and ensuring that things don't overlap.
 
@@ -74,7 +74,7 @@ Creating extra space is useful for organization, and ensuring that things don't 
 
 Step 8: **Draw** a frame underneath the "Back" rectangle with dimensions approximately 300 x 500 just as you drew the rectangle in Step 3 of Task 3.
 
-![Image 8](../assets/Task4/Img8.png)
+![Draw a frame](../assets/Task4/Img8.png "Draw a frame")
 
 The frame is a crucial part of creating a clickable wireframe in Figma Design. You can attach clickable text, icons, or buttons to it.
 
@@ -83,7 +83,7 @@ The frame is a crucial part of creating a clickable wireframe in Figma Design. Y
 
 Step 9: **Copy and paste** the frame like you did with the "Settings" rectangle in Step 2.
 
-![Image 9](../assets/Task4/Img9.png)
+![Copy and paste the frame](../assets/Task4/Img9.png "Copy and paste the frame")
 
 Creating a second frame will gives us two different screens to switch between.
 
@@ -92,7 +92,7 @@ Creating a second frame will gives us two different screens to switch between.
 
 Step 10: **Drag** your "Back" rectangle into the middle of "Frame 1".
 
-![Image 10](../assets/Task4/Img10.png)
+![Add 'Back' to 'Frame 1'](../assets/Task4/Img10.png "Add 'Back' to 'Frame 1'")
 
 This will add the "Back" shape to the screen of the first frame.
 
@@ -101,7 +101,7 @@ This will add the "Back" shape to the screen of the first frame.
 
 Step 11: **Drag** your "Settings" shape into the middle of "Frame 2".
 
-![Image 11](../assets/Task4/Img11.png)
+![Add 'Settings' to 'Frame 2'](../assets/Task4/Img11.png "Add 'Settings' to 'Frame 2'")
 
 This will add the "Settings" shape to the static view of the second frame.
 
@@ -110,7 +110,7 @@ This will add the "Settings" shape to the static view of the second frame.
 
 Step 12: **Click** on "Prototype" at the top of the right sidebar.
 
-![Image 12](../assets/Task4/Img12.png)
+![Navigate to 'Prototype'](../assets/Task4/Img12.png "Navigate to 'Prototype'")
 
 The "Prototype" section can be used to link frames and assign actions for the player to move from one screen to another.
 
@@ -119,7 +119,7 @@ The "Prototype" section can be used to link frames and assign actions for the pl
 
 Step 13: **Hover over** the "Settings" shape and **move** your mouse to the middle of the left side of the blue outline of the shape.
 
-![Image 13](../assets/Task4/Img13.png)
+![Find the connector node](../assets/Task4/Img13.png "Find the connector node")
 
 This will give you the ability to link the shapes together by dragging a link to another frame.
 
@@ -128,7 +128,7 @@ This will give you the ability to link the shapes together by dragging a link to
 
 Step 14: **Click** on the cross, **hold and drag** the mouse to "Frame 1", **let go** when "Frame 1" has a blue outline and **close** the pop-up.
 
-![Image 14](../assets/Task4/Img14.png)
+![Connect 'Settings' to 'Frame 1'](../assets/Task4/Img14.png "Connect 'Settings' to 'Frame 1'")
 
 Linking the "Settings" shape to "Frame 1" means that later on, you can click "Settings" and the UI will show "Frame 1".
 
@@ -140,7 +140,7 @@ Linking the "Settings" shape to "Frame 1" means that later on, you can click "Se
 
 Step 15: **Link** "Back" to "Frame 2" in the same way as you did in Steps 13-14.
 
-![Image 15](../assets/Task4/Img15.png)
+![Connect 'Back' to 'Frame 2'](../assets/Task4/Img15.png "Connect 'Back' to 'Frame 2'")
 
 This links "Back" to "Frame 1" creating a connection loop between the two frames.
 
@@ -152,7 +152,7 @@ This links "Back" to "Frame 1" creating a connection loop between the two frames
 
 Step 16: **Click** on the Play Icon at the top of the right sidebar.
 
-![Image 16](../assets/Task4/Img16.png)
+![Click the Play icon](../assets/Task4/Img16.png "Click the Play icon")
 
 This will open a dynamic interaction prototype of your wireframe. By default it will show "Frame 1".
 
@@ -161,7 +161,7 @@ This will open a dynamic interaction prototype of your wireframe. By default it 
 
 Step 17: **Click** the labeled button in the frame to switch to the next frame, and **click** again to return to the first frame.
 
-![Image 17](../assets/Task4/Img17.png)
+![Test out your prototype](../assets/Task4/Img17.png "Test out your prototype")
 
 The prototype allows you to test your design, without having to code the UI, in order to confirm if your design is user friendly. 
 

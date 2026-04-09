@@ -11,7 +11,7 @@ This task will teach how to perform basic actions in Figma Design, that you will
 
 Step 1: **Click** on "Design" near the top right.
 
-![Image 1](../assets/Task3/Img1.png)
+![Start on a blank Figma Design file](../assets/Task3/Img1.png "Start on a blank Figma Design file")
 
 This will create a new Figma Design file for you to work with.
 
@@ -23,7 +23,7 @@ This will create a new Figma Design file for you to work with.
 
 Step 2: **Click** the square in the bottom row (**do not click** the dropdown arrow beside it).
 
-![Image 2](../assets/Task3/Img2.png)
+![Select the rectangle tool](../assets/Task3/Img2.png "Select the rectangle tool")
 
 Using this tool, you can easily draw rectangles with your desired dimensions.
 
@@ -35,7 +35,7 @@ Step 3: **Hold down** left click, while **hovering** over the grey background an
 !!! note
     The exact dimensions don't matter in this case.
 
-![Image 3](../assets/Task3/Img3.png)
+![Draw a rectangle](../assets/Task3/Img3.png "Draw a rectangle")
 
 Drawing a rectangle is a good first step, as it is a commonly used shape, especially in wireframes.
 
@@ -44,7 +44,7 @@ Drawing a rectangle is a good first step, as it is a commonly used shape, especi
 
 Step 4: **Click** the grey square below "Fill" on the right sidebar.
 
-![Image 4](../assets/Task3/Img4.png)
+![Open the color selection menu](../assets/Task3/Img4.png "Open the color selection menu")
 
 The color selection menu can be used to select an appoximate color from the multi-color square. Or an exact color by entering a an exact HEX or RGB value.
 
@@ -53,7 +53,7 @@ The color selection menu can be used to select an appoximate color from the mult
 
 Step 5: **Move** your mouse cursor near the middle of the left side of the multi-color square and **left click** (make sure to **click** within the color square and not outside it), then **close** the menu.
 
-![Image 5](../assets/Task3/Img5.png)
+![Change the color to dark grey](../assets/Task3/Img5.png "Change the color to dark grey")
 
 Changing the color of your currently selected shape will make it easier to see against the light grey background.
 
@@ -62,7 +62,7 @@ Changing the color of your currently selected shape will make it easier to see a
 
 Step 6: **Select** the rectangle and **hover** over it. **Go to** one of the circles inside the rectangle near the corner , **click and drag** inward until you see "Radius 40".
 
-![Image 6](../assets/Task3/Img6.png)
+![Round the corners of the rectangle](../assets/Task3/Img6.png "Round the corners of the rectangle")
 
 This makes your rectangle rounded, which will help create shapes that look like buttons or screens instead of basic rectangles.
 
@@ -71,7 +71,7 @@ This makes your rectangle rounded, which will help create shapes that look like 
 
 Step 7: **Click** on the number right of "W" under dimensions on the right panel and type in 200, **press** enter.
 
-![Image 7](../assets/Task3/Img7.png)
+![Change the width to 200](../assets/Task3/Img7.png "Change the width to 200")
 
 Modifying the width will ensure that the rectangle fits to your purpose.
 
@@ -80,7 +80,7 @@ Modifying the width will ensure that the rectangle fits to your purpose.
 
 Step 8: **Click** on the number right of "H" under dimensions on the right panel and type in 100, **press** enter.
 
-![Image 8](../assets/Task3/Img8.png)
+![Change the height to 100](../assets/Task3/Img8.png "Change the height to 100")
 
 As with width, modifying height ensures the shape can be used for its intended purpose.
 
@@ -89,7 +89,7 @@ As with width, modifying height ensures the shape can be used for its intended p
 
 Step 9: **Click** on the text icon in the bottom row.
 
-![Image 9](../assets/Task3/Img9.png)
+![Select the text tool](../assets/Task3/Img9.png "Select the text tool")
 
 The text tool alllows you to create text boxes where you can write and format text.
 
@@ -98,7 +98,7 @@ The text tool alllows you to create text boxes where you can write and format te
 
 Step 10: **Click and hold** inside your rectangle near the top left corner and **drag** towards the bottom right corner until the numbers below read approx. 150 x 50, then **let go**.
 
-![Image 10](../assets/Task3/Img10.png)
+![Draw a text box on top of the rectangle](../assets/Task3/Img10.png "Draw a text box on top of the rectangle")
 
 This will create a text box on top of your shape, allowing you to add and format text inside of it.
 
@@ -107,7 +107,7 @@ This will create a text box on top of your shape, allowing you to add and format
 
 Step 11: **Click** on the number 12 in the "Typography" section of the right sidebar, **type in** 30, **press** enter.
 
-![Image 11](../assets/Task3/Img11.png)
+![Change the font size to 30](../assets/Task3/Img11.png "Change the font size to 30")
 
 This will change the font size of any text you add after this point to 30.
 
@@ -116,7 +116,7 @@ This will change the font size of any text you add after this point to 30.
 
 Step 12: **Type in** `Settings` and **click** off the text box.
 
-![Image 12](../assets/Task3/Img12.png)
+![Label the text box](../assets/Task3/Img12.png "Label the text box")
 
 Placing a labeled text box above a shape, allows you to label it, since Figma Design doesn't let you label the shape directly.
 
@@ -125,7 +125,7 @@ Placing a labeled text box above a shape, allows you to label it, since Figma De
 
 Step 13: **Click and hold** outside of the shape, then **drag** the mouse across the shape and text box, then **let go**.
 
-![Image 13](../assets/Task3/Img13.png)
+![Select both the rectangle and the text box](../assets/Task3/Img13.png "Select both the rectangle and the text box")
 
 This selects both the shape itself, and text you added.
 
@@ -134,7 +134,7 @@ This selects both the shape itself, and text you added.
 
 Step 14: **Right click** on the selected objects and **click** on "Group selection".
 
-![Image 14](../assets/Task3/Img14.png)
+![Group the rectangle and text box](../assets/Task3/Img14.png "Group the rectangle and text box")
 
 Grouping the objects allows you to move them together, this is useful for a makeshift label as seen here.
 
