@@ -11,7 +11,7 @@
 | Shapes are overlapping | Shapes were duplicated but not moved | Click and drag shapes apart to separate them |
 | Cannot label shapes in Figma Design | Figma Design does not support direct shape text | Use the text tool and place text on top of the shape |
 | Moving objects moves only part of it | Objects are not grouped | Select both objects, right-click, and click "Group selection" |
-| Grouped object behaves unexpectedly | Double-click selects only one element | Click once (not double-click) to move the full group :contentReference[oaicite:1]{index=1} |
+| Grouped object behaves unexpectedly | Double-click selects only one element | Click once (not double-click) to move the full group |
 | Cannot connect shapes in flowchart | Wrong tool selected | Use the "Bent connector" tool from the toolbar |
 | Connectors point the wrong way | Dragged from wrong connection point | Reconnect by dragging from the correct side of the shape |
 | Flowchart looks messy or confusing | Shapes are not aligned or spaced properly | Drag shapes into alignment and space them evenly |
