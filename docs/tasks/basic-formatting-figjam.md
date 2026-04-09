@@ -11,7 +11,7 @@ This task will show you how to insert and format shapes in FigJam. You will crea
 
 Step 1: **Click** FigJam near the top right of the Figma home page.
 
-![Open the New FigJam board option](../assets/Task1/Img1.png "Open the New FigJam board option")
+![Open a new FigJam board](../assets/Task1/Img1.png "Open a new FigJam board")
 
 This opens a blank FigJam board where you can add shapes, text, and connectors.
 
@@ -32,7 +32,7 @@ The Shape tool lets you place visual objects on the board. A square is a good fi
 
 Step 3: **Click and drag** the square from the bottom bar onto the board and **let go** to place it.
 
-![Draw your first square on the FigJam board](../assets/Task1/Img3.png "Draw your first square on the FigJam board")
+![Add your first square to the FigJam board](../assets/Task1/Img3.png "Add your first square to the FigJam board")
 
 Drawing the shape gives you an object that you can format and label. The exact size does not need to match perfectly.
 
@@ -41,7 +41,7 @@ Drawing the shape gives you an object that you can format and label. The exact s
 
 Step 4: **Click** the square to select it, then **click** the colored circle in the bar that appears above.
 
-Img 4
+![Open the fill color selection menu](../assets/Task1/Img4.png "Open the fill color selection menu")
 
 This menu allows you to modify the color of the shape.
 
@@ -50,7 +50,7 @@ This menu allows you to modify the color of the shape.
 
 Step 5: **Choose** one of the preset color circles and **click** it.
 
-Img 5
+![Choose one of the preset colors](../assets/Task1/Img5.png "Choose one of the preset colors")
 
 Changing the fill makes the shape easier to see and helps organize information visually. For example, you can use one color for important steps and another color for supporting steps.
 
@@ -59,9 +59,9 @@ Changing the fill makes the shape easier to see and helps organize information v
 
 Step 6: **Click** the three line icon to the immediate right of the colored circle, and **chose** a color different to your fill color.
 
-Img 6
+![Change the stroke color](../assets/Task1/Img6.png "Change the stroke color")
 
-This will change your stroke color (the outside), which allows for further organization, and can represent more specific subcategories.
+This will change your stroke color (the outside line), which allows for further organization, and can represent more specific subcategories.
 
 !!! success
     The thin line surrounding your square should now be the color you selected
@@ -74,7 +74,7 @@ This will change your stroke color (the outside), which allows for further organ
 
 Step 7: **Double-click** inside the square and **type** `Review`.
 
-Img 7
+![Label the square 'Review'](../assets/Task1/Img7.png "Label the square 'Review'")
 
 Adding text turns the shape into a labeled object that a reader can understand.
 
@@ -83,7 +83,7 @@ Adding text turns the shape into a labeled object that a reader can understand.
 
 Step 8: **Select** the square, then **press** Ctrl+C, then **press** Ctrl+V twice.
 
-Img 8
+![Add two identical squares](../assets/Task1/Img8.png "Add two identical squares")
 
 Duplicating the shape saves time and keeps the formatting consistent across your board.
 
@@ -92,7 +92,7 @@ Duplicating the shape saves time and keeps the formatting consistent across your
 
 Step 9: **Separate** the three squares by **clicking and dragging** them apart.
 
-Img 9
+![Separate the three squares](../assets/Task1/Img9.png "Separate the three squares")
 
 Separating the shapes gives us easier access to each one, and is more visually pleasing.
 
@@ -101,7 +101,7 @@ Separating the shapes gives us easier access to each one, and is more visually p
 
 Step 10: **Double-click** on one of the shapes and **rename** it `Start`, then **rename** a second square to `End`.
 
-Img 10
+![Rename two of the squares](../assets/Task1/Img10.png "Rename two of the squares")
 
 Renaming duplicated objects helps create distinct, but consistent elements.
 
