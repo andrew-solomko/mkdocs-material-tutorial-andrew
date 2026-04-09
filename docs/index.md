@@ -12,10 +12,10 @@ This guide is for beginners using Figma on Windows. It is especially useful for 
 
 In this guide, you will complete four tasks:
 
-1. [Format shapes in FigJam](basic-formatting-figjam.md)
-2. [Create your first flowchart in FigJam](first-flowchart-figjam.md)
-3. [Basic formatting in Figma Design](basic-formatting-figma-design.md)
-4. [Your first wireframe in Figma Design](first-wireframe-figma-design.md)
+1. [Format shapes in FigJam](./tasks/basic-formatting-figjam.md)
+2. [Create your first flowchart in FigJam](./tasks/first-flowchart-figjam.md)
+3. [Basic formatting in Figma Design](./tasks/basic-formatting-figma-design.md)
+4. [Your first wireframe in Figma Design](./tasks/first-wireframe-figma-design.md)
 
 You can also use the [Glossary](glossary.md) to review key terms while working through the guide.
 
