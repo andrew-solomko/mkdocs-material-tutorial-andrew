@@ -4,9 +4,12 @@
 
 This task will show you how to insert and format shapes in FigJam. You will create a small practice area by adding a shape, changing its appearance, and labeling it with text. After you complete this task, you will be ready to build a simple flowchart in FigJam.
 
+!!! warning
+    Before beggining this task, ensure you are on the main page of Figma just after signing up or signing in.
+
 ## Procedure
 
-1. **Click** **New FigJam board** from the Figma home page (top right corner).
+Step 1: **Click** FigJam near the top right of the Figma home page.
 
 ![Open the New FigJam board option](../assets/Task1/Img1.png "Open the New FigJam board option")
 
@@ -18,7 +21,7 @@ This opens a blank FigJam board where you can add shapes, text, and connectors.
 !!! note
     If a pop-up appears when the board opens, close it before continuing.
 
-2. **Click** the **Shape** tool in the toolbar and **select** a rectangle.
+Step 2: **Click** the shape tool in the toolbar and **select** the square.
 
 ![Select the Shape tool and choose a rectangle](../assets/Task1/Img2.png "Select the Shape tool and choose a rectangle")
 
@@ -27,7 +30,7 @@ The Shape tool lets you place visual objects on the board. A rectangle is a good
 !!! success
     Your cursor should now be ready to draw a rectangle.
 
-3. **Drag the rectangle** onto the board and click to place it.
+Step 3: **Click and drag** the rectangle from the bottom bar onto the board and **let go** to place it.
 
 ![Draw your first rectangle on the FigJam board](../assets/Task1/Img3.png "Draw your first rectangle on the FigJam board")
 
@@ -36,26 +39,74 @@ Drawing the shape gives you an object that you can format and label. The exact s
 !!! success
     You should see one rectangle on the board.
 
-4. **Click** the rectangle, then **change** the **Fill** color and **Stroke** color or thickness in the formatting options.
+Step 4: **Click** the rectangle to select it, then **click** the colored circle in the bar that appears above.
 
-![Change the fill and stroke of the selected shape](../assets/Task1/Img4.png "Change the fill and stroke of the selected shape")
+Img 4
 
-Changing the fill and stroke makes the shape easier to see and helps organize information visually. For example, you can use one color for important steps and another color for supporting steps.
+This menu allows you to modify the color of the shape.
 
 !!! success
-    Your rectangle should now look different from the default shape.
+    You should see a small color selection menu pop up.
+
+Step 5: **Choose** one of the preset color circles and **click** it.
+
+Img 5
+
+Changing the fill makes the shape easier to see and helps organize information visually. For example, you can use one color for important steps and another color for supporting steps.
+
+!!! success
+    The fill color of your square should now be the color you selected.
+
+Step 6: **Click** the three line icon to the immediate right of the colored circle, and **chose** a color different to your fill color.
+
+Img 6
+
+This will change your stroke color (the outside), which allows for further organization, and can represent more specific subcategories.
+
+!!! success
+    The thin line surrounding your square should now be the color you selected
+
+!!! note
+    The stroke thickness can also be adjusted in the same menu as the stroke color.
 
 !!! warning
     Make sure the text and shape colors still contrast clearly. Light text on a light shape can become hard to read.
 
-5. **Double-click** inside the rectangle, **type** `Review`, then **copy and paste** the shape twice (ctrl+c and ctrl+v). **Move** the copies beside the first shape and **rename** them `Start` and `End`.
+Step 7: **Double-click** inside the square and **type** `Review`.
 
-![Add text to the shape, then duplicate it to create matching shapes](../assets/Task1/Img5.png "Add text to the shape, then duplicate it to create matching shapes")
+Img 7
 
-Adding text turns the shape into a labeled object that a reader can understand. Duplicating the shape saves time and keeps the formatting consistent across your board.
+Adding text turns the shape into a labeled object that a reader can understand.
 
 !!! success
-    You should now see three labeled shapes on the board.
+    Your square should now be labeled "Review".
+
+Step 8: **Select** the square, then **press** Ctrl+C, then **press** Ctrl+V twice.
+
+Img 8
+
+Duplicating the shape saves time and keeps the formatting consistent across your board.
+
+!!! success
+    You should see two new squares, identical to yours get, added mostly overtop of your intial square.
+
+Step 9: **Separate** the three squares by **clicking and dragging** them apart.
+
+Img 9
+
+Separating the shapes gives us easier access to each one, and is more visually pleasing.
+
+!!! success
+    The three squares should not be overlapping at all.
+
+Step 10: **Double-click** on one of the shapes and **rename** it `Start`, then **rename** a second square to `End`.
+
+Img 10
+
+Renaming duplicated objects helps create distinct, but consistent elements.
+
+!!! success
+    You should see three squares named: "Start", "Review", and "End".
 
 ## Conclusion
 
