@@ -5,7 +5,7 @@
 This task will teach how to perform basic actions in Figma Design, that you will need to later build your first wireframe. You will learn to draw shapes, change their color, add labels, and group the shapes to their labels.
 
 !!! warning
-    Before beggining this task, ensure you are on the main page of Figma just after signing up or signing in.
+    Before beginning this task, ensure you are on the main page of Figma.
 
 ## Procedure
 
@@ -16,12 +16,12 @@ Step 1: **Click** on "Design" near the top right.
 This will create a new Figma Design file for you to work with.
 
 !!! success
-    You should see an empty middle area, two thick sidebars and a small bottom row.
+    You should see an empty middle area, two thick sidebars and a small bottom toolbar.
 
 !!! note
     If you see a pop up on the left side of the screen, close it using the x in the top right corner of the popup before proceeding.
 
-Step 2: **Click** the square in the bottom row (**do not click** the dropdown arrow beside it).
+Step 2: **Click** the square in the bottom toolbar (**do not click** the dropdown arrow beside it).
 
 ![Select the rectangle tool](../assets/Task3/Img2.png "Select the rectangle tool")
 
@@ -33,7 +33,7 @@ Using this tool, you can easily draw rectangles with your desired dimensions.
 Step 3: **Hold down** left click, while **hovering** over the grey background and **drag** your mouse down and right until the numbers underneath the rectangle read approximately 300 x 150, then **let go** of left click.
 
 !!! note
-    The exact dimensions don't matter in this case.
+    The exact dimensions don't matter in this case. We will resize the dimensions later.
 
 ![Draw a rectangle](../assets/Task3/Img3.png "Draw a rectangle")
 
@@ -114,7 +114,7 @@ This will change the font size of any text you add after this point to 30.
 !!! success
     The caret in the text box should be larger now to signify an increase in font size.
 
-Step 12: **Type in** `Settings` and **click** off the text box.
+Step 12: **Type in** `Settings` and **click** on the blank background to deselect the text box.
 
 ![Label the text box](../assets/Task3/Img12.png "Label the text box")
 

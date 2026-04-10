@@ -5,7 +5,7 @@
 This task will show you how to create a simple flowchart in FigJam. You will place shapes, label each step, and connect them in the correct order to show how a process works. After you complete this task, you will have a finished beginner flowchart that you can use as a model for future diagrams.
 
 !!! warning
-    Before beggining this task, ensure you are on the main page of Figma just after signing up or signing in.
+    Before begininng this task, ensure you are on the main page of Figma.
 
 ## Procedure
 
@@ -45,14 +45,18 @@ Step 4: **Move** the shapes into order from top to bottom. Place "Start", "Open 
 
 A clear layout helps the reader follow the process from beginning to end. Placing the decision in the middle makes the branch easier to understand.
 
-Step 5: **Click** the "Bent connector" tool icon which is on the left side of the shape selection bar.
+!!! success
+    The shapes should be organized left to right in the following order: "Start", "Open assignment", "Finish work", "Work complete?", "Submit assignment", and "End".
+
+
+Step 5: **Click** the bent connector tool icon which is on the left side of the shape selection bar.
 
 ![Select the bent connector tool](../assets/Task2/Img5.png "Select the bent connector tool")
 
 Using this tool will allow for bent but not curved connections between our shapes. Which is the prefered method for flowcharts.
 
 !!! success
-    The "Bent connector" icon in the shape selection bar should now have a black outline.
+    The bent connector icon in the shape selection bar should now have a black outline.
 
 Step 6: **Connect** "Start" to "Open assignment" by hovering over the right-most point of "Start", then **clicking and dragging** it to the left side of "Open assignment".
 

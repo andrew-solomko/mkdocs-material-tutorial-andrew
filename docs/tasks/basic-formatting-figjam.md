@@ -5,11 +5,13 @@
 This task will show you how to insert and format shapes in FigJam. You will create a small practice area by adding a shape, changing its appearance, and labeling it with text. After you complete this task, you will be ready to build a simple flowchart in FigJam.
 
 !!! warning
-    Before beggining this task, ensure you are on the main page of Figma just after signing up or signing in.
+    Before beginning this task, ensure you are on the main page of Figma just after signing up or signing in.
+
+![Main page of Figma](../assets/MainPage.png "Main page of Figma")
 
 ## Procedure
 
-Step 1: **Click** FigJam near the top right of the Figma home page.
+Step 1: **Click** "FigJam" near the top right of the Figma home page.
 
 ![Open a new FigJam board](../assets/Task1/Img1.png "Open a new FigJam board")
 
@@ -21,16 +23,16 @@ This opens a blank FigJam board where you can add shapes, text, and connectors.
 !!! note
     If a pop-up appears when the board opens, close it before continuing.
 
-Step 2: **Click** the shape tool in the toolbar and **select** the square.
+Step 2: **Click** the shape tool in the bottom toolbar and **select** the square.
 
-![Select the Shape tool and choose a square](../assets/Task1/Img2.png "Select the Shape tool and choose a square")
+![Select the shape tool and choose a square](../assets/Task1/Img2.png "Select the shape tool and choose a square")
 
-The Shape tool lets you place visual objects on the board. A square is a good first shape because it is commonly used for process steps.
+The shape tool lets you place visual objects on the board. A square is a good first shape because it is commonly used for process steps.
 
 !!! success
     Your cursor should now be ready to draw a square.
 
-Step 3: **Click and drag** the square from the bottom bar onto the board and **let go** to place it.
+Step 3: **Click and drag** the square from the bottom toolbar onto the board and **let go** to place it.
 
 ![Add your first square to the FigJam board](../assets/Task1/Img3.png "Add your first square to the FigJam board")
 

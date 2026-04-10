@@ -5,7 +5,7 @@
 This task will show you how to create a basic wireframe in Figma Design, building on what you created in Task 3. You will add another button, create frames, learn to link frames using the buttons, and test your clickable wireframe. Once you know how to make a small wireframe, you can make any wireframe with the same tools.
 
 !!! warning
-    Before beggining this task, ensure you are in the file that contains your work from Task 3.
+    Before beginning this task, ensure you are in the file that contains your work from Task 3.
 
 ## Procedure
 
@@ -54,7 +54,7 @@ Changing the text of the second object gives them distinct names.
 !!! success
     You should now have a "Settings" shape, and a "Back" shape.
 
-Step 6: **Select** the frame tool in the bottom row by **clicking** on it.
+Step 6: **Select** the frame tool in the bottom toolbar by **clicking** on it.
 
 ![Select the frame tool](../assets/Task4/Img6.png "Select the frame tool")
 
@@ -63,7 +63,7 @@ This tool will allow you to create frames that represent the base of a UI, like 
 !!! success
     The frame tool you clicked should now have a blue background, signifying that it's selected.
 
-Step 7: **Move** your rectangles upward by **scrolling down** until they are near the top of the screen.
+Step 7: **Scroll down** until the shapes are near the top of the screen.
 
 ![Move the shapes up by scrolling down](../assets/Task4/Img7.png "Move the shapes up by scrolling down")
 
@@ -91,6 +91,9 @@ Creating a second frame will gives us two different screens to switch between.
     You should see two identical large, white rectangles.
 
 Step 10: **Drag** your "Back" rectangle into the middle of "Frame 1".
+
+!!! warning
+    In order for the shape to attach to the frame properly, the whole shape must be within the borders of the frame.
 
 ![Add 'Back' to 'Frame 1'](../assets/Task4/Img10.png "Add 'Back' to 'Frame 1'")
 
@@ -154,12 +157,12 @@ Step 16: **Click** on the Play Icon at the top of the right sidebar.
 
 ![Click the Play icon](../assets/Task4/Img16.png "Click the Play icon")
 
-This will open a dynamic interaction prototype of your wireframe. By default it will show "Frame 1".
+This will open a dynamic interaction prototype of your wireframe in another tab. By default it will show "Frame 1".
 
 !!! success
     You should be redirected to another tab in your browser and see one of your frames.
 
-Step 17: **Click** the labeled button in the frame to switch to the next frame, and **click** again to return to the first frame.
+Step 17: **Click** the labeled "Back" button, then **click** the labeled "Settings" button.
 
 ![Test out your prototype](../assets/Task4/Img17.png "Test out your prototype")
 

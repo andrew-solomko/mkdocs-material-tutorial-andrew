@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Figma is an online tool used to plan, design, and prototype digital interfaces. This guide introduces two parts of Figma: **FigJam** and **Figma Design**. FigJam is a whiteboard workspace used for diagrams, brainstorming, and flowcharts. Figma Design is used to create screen layouts and wireframes. By the end of this guide, you will know how to format shapes in FigJam, create a simple flowchart, format elements in Figma Design, and build a basic wireframe.
+[Figma](https://www.figma.com/) is an online tool used to plan, design, and prototype digital interfaces. This guide introduces two parts of Figma: FigJam and Figma Design. FigJam is a whiteboard workspace used for diagrams, brainstorming, and flowcharts. Figma Design is used to create screen layouts and wireframes. By the end of this guide, you will know how to format shapes in FigJam, create a simple flowchart, format elements in Figma Design, and build a basic wireframe.
 
 ## Is this guide for you?
 
@@ -35,7 +35,7 @@ If you do not have an account yet, [create a free Figma account](https://www.fig
 | Convention | Meaning | Example |
 |------------|---------|---------|
 | **Bold text** | An action you must perform | **Click** New FigJam board |
-| `Code text` | Text you must type exactly as shown | Type `Start` |
+| `Code text` | Text you must type exactly as shown | **Type** `Start` |
 | "Quoted text" | Text that appears in the interface | **Click** "Prototype" |
 
 ## Admonitions
